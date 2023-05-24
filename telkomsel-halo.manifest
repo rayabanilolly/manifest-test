@@ -3,11 +3,11 @@
     "background_color": "#fafafa",
     "id": "store-halo",
     "display": "standalone",
-    "scope": "https://telkomsel.com/store/telkomsel-halo/home",
+    "scope": "https://www.telkomsel.com/store/telkomsel-halo/home",
     "prefer_related_applications": false,
     "name": "Official Store Telkomsel Halo",
     "short_name": "Telkomsel Halo",
-    "start_url": "https://telkomsel.com/store/telkomsel-halo/home",
+    "start_url": "https://www.telkomsel.com/store/telkomsel-halo/home",
     "icons": [
     {
         "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/android-icon-72x72.png",
