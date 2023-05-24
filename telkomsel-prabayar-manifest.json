@@ -1,13 +1,13 @@
 {
     "theme_color": "#FF0025",
     "background_color": "#fafafa",
-    "id": "store-show-case",
+    "id": "store-telkomsel-prabayar",
     "display": "standalone",
-    "scope": "https://www.telkomsel.com/store/show-case/home/",
+    "scope": "https://www.telkomsel.com/store/telkomsel-prabayar/home/",
     "prefer_related_applications": false,
-    "name": "Official Store Show Case",
-    "short_name": "Show Case",
-    "start_url": "https://www.telkomsel.com/store/show-case/home/",
+    "name": "Official Store Telkomsel Prabayar",
+    "short_name": "Telkomsel Prabayar",
+    "start_url": "https://www.telkomsel.com/store/telkomsel-prabayar/home/",
     "icons": [
         {
             "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/android-icon-72x72.png",
