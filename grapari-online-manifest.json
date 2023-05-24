@@ -1,0 +1,48 @@
+{
+    "theme_color": "#FF0025",
+    "background_color": "#fafafa",
+    "id": "store-grapari-online",
+    "display": "standalone",
+    "scope": "https://www.telkomsel.com/store/grapari-online/home/",
+    "prefer_related_applications": false,
+    "name": "Official Store Grapari Online",
+    "short_name": "Grapari Online",
+    "start_url": "https://www.telkomsel.com/store/grapari-online/home/",
+    "icons": [
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/android-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/android-icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/apple-icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/apple-icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://telkomsel.com/store/assets/images/telkomsel-logo/384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ]
+}
